@@ -1,0 +1,7 @@
+[project]
+name = "job-siege"
+version = "0.1.0"
+description = "Automation for job seekers"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
